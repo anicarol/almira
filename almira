@@ -5,7 +5,7 @@
             margin: 0;
         }
         .homepage-main-section {
-            background-image: url("/cakecups/cakecups_bg.jpg");
+            background-image: url("/20180424_102357.jpg");
             height: 550px;
             background-size: cover;
         }
